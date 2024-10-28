@@ -17,6 +17,6 @@ How to Run:
 2. Open a terminal.
 3. Navigate to the directory containing the files.
 4. Execute the command:
-  python GraphPlan.py tower_of_hanoi_domain.pddl tower_of_hanoi_problem.pddl
+   python GraphPlan.py tower_of_hanoi_domain.pddl tower_of_hanoi_problem.pddl
 
 
