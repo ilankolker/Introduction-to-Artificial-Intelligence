@@ -22,16 +22,11 @@ The game is based on the classic Blokus rules, where players take turns placing 
 - Python 3.x 🐍
 - Required libraries: `numpy`, `matplotlib` 📚
 
-### Installation
+### Installation and Running
 Clone this repository to your local machine:
 ```bash
 git clone https://github.com/ilankolker/Introduction-to-Artificial-Intelligence.git
 
-# Running the Project 🚀
+cd Introduction-to-Artificial-Intelligence/ex1
+python main.py
 
-1. **Navigate to the project directory** (if not already there):
-
-   ```bash
-   cd Introduction-to-Artificial-Intelligence/ex1/
-2. Run the main program.
-   python main.py
