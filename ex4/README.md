@@ -13,10 +13,10 @@ Requirements ✅
 Python 3.x
 
 How to Run:
-Ensure all files are in the same directory.
-Open a terminal.
-Navigate to the directory containing the files.
-Execute the command:
+1. Ensure all files are in the same directory.
+2. Open a terminal.
+3. Navigate to the directory containing the files.
+4. Execute the command:
   python GraphPlan.py tower_of_hanoi_domain.pddl tower_of_hanoi_problem.pddl
 
 
